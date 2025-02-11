@@ -342,3 +342,8 @@ packages:
   path: .
   repo: hyperbrowserai/langchain-hyperbrowser
   downloads: 0
+- name: composio-langchain
+  path: python/plugins/langchain
+  repo: ComposioHQ/composio
+  provider_page: composio
+  downloads: 0
